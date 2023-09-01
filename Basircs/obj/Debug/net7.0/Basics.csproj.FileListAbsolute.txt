@@ -1,0 +1,15 @@
+/Users/dadashow/Projects/P140/Basircs/bin/Debug/net7.0/Basics
+/Users/dadashow/Projects/P140/Basircs/bin/Debug/net7.0/Basics.deps.json
+/Users/dadashow/Projects/P140/Basircs/bin/Debug/net7.0/Basics.runtimeconfig.json
+/Users/dadashow/Projects/P140/Basircs/bin/Debug/net7.0/Basics.dll
+/Users/dadashow/Projects/P140/Basircs/bin/Debug/net7.0/Basics.pdb
+/Users/dadashow/Projects/P140/Basircs/obj/Debug/net7.0/Basics.csproj.AssemblyReference.cache
+/Users/dadashow/Projects/P140/Basircs/obj/Debug/net7.0/Basics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dadashow/Projects/P140/Basircs/obj/Debug/net7.0/Basics.AssemblyInfoInputs.cache
+/Users/dadashow/Projects/P140/Basircs/obj/Debug/net7.0/Basics.AssemblyInfo.cs
+/Users/dadashow/Projects/P140/Basircs/obj/Debug/net7.0/Basics.csproj.CoreCompileInputs.cache
+/Users/dadashow/Projects/P140/Basircs/obj/Debug/net7.0/Basics.dll
+/Users/dadashow/Projects/P140/Basircs/obj/Debug/net7.0/refint/Basics.dll
+/Users/dadashow/Projects/P140/Basircs/obj/Debug/net7.0/Basics.pdb
+/Users/dadashow/Projects/P140/Basircs/obj/Debug/net7.0/Basics.genruntimeconfig.cache
+/Users/dadashow/Projects/P140/Basircs/obj/Debug/net7.0/ref/Basics.dll

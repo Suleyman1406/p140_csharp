@@ -1,0 +1,15 @@
+/Users/dadashow/Projects/P140/Methods/bin/Debug/net7.0/Methods
+/Users/dadashow/Projects/P140/Methods/bin/Debug/net7.0/Methods.deps.json
+/Users/dadashow/Projects/P140/Methods/bin/Debug/net7.0/Methods.runtimeconfig.json
+/Users/dadashow/Projects/P140/Methods/bin/Debug/net7.0/Methods.dll
+/Users/dadashow/Projects/P140/Methods/bin/Debug/net7.0/Methods.pdb
+/Users/dadashow/Projects/P140/Methods/obj/Debug/net7.0/Methods.csproj.AssemblyReference.cache
+/Users/dadashow/Projects/P140/Methods/obj/Debug/net7.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dadashow/Projects/P140/Methods/obj/Debug/net7.0/Methods.AssemblyInfoInputs.cache
+/Users/dadashow/Projects/P140/Methods/obj/Debug/net7.0/Methods.AssemblyInfo.cs
+/Users/dadashow/Projects/P140/Methods/obj/Debug/net7.0/Methods.csproj.CoreCompileInputs.cache
+/Users/dadashow/Projects/P140/Methods/obj/Debug/net7.0/Methods.dll
+/Users/dadashow/Projects/P140/Methods/obj/Debug/net7.0/refint/Methods.dll
+/Users/dadashow/Projects/P140/Methods/obj/Debug/net7.0/Methods.pdb
+/Users/dadashow/Projects/P140/Methods/obj/Debug/net7.0/Methods.genruntimeconfig.cache
+/Users/dadashow/Projects/P140/Methods/obj/Debug/net7.0/ref/Methods.dll

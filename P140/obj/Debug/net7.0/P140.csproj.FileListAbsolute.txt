@@ -1,0 +1,15 @@
+/Users/dadashow/Projects/P140/P140/bin/Debug/net7.0/P140
+/Users/dadashow/Projects/P140/P140/bin/Debug/net7.0/P140.deps.json
+/Users/dadashow/Projects/P140/P140/bin/Debug/net7.0/P140.runtimeconfig.json
+/Users/dadashow/Projects/P140/P140/bin/Debug/net7.0/P140.dll
+/Users/dadashow/Projects/P140/P140/bin/Debug/net7.0/P140.pdb
+/Users/dadashow/Projects/P140/P140/obj/Debug/net7.0/P140.csproj.AssemblyReference.cache
+/Users/dadashow/Projects/P140/P140/obj/Debug/net7.0/P140.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dadashow/Projects/P140/P140/obj/Debug/net7.0/P140.AssemblyInfoInputs.cache
+/Users/dadashow/Projects/P140/P140/obj/Debug/net7.0/P140.AssemblyInfo.cs
+/Users/dadashow/Projects/P140/P140/obj/Debug/net7.0/P140.csproj.CoreCompileInputs.cache
+/Users/dadashow/Projects/P140/P140/obj/Debug/net7.0/P140.dll
+/Users/dadashow/Projects/P140/P140/obj/Debug/net7.0/refint/P140.dll
+/Users/dadashow/Projects/P140/P140/obj/Debug/net7.0/P140.pdb
+/Users/dadashow/Projects/P140/P140/obj/Debug/net7.0/P140.genruntimeconfig.cache
+/Users/dadashow/Projects/P140/P140/obj/Debug/net7.0/ref/P140.dll
