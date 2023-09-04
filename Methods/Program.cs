@@ -249,19 +249,104 @@
 //Console.WriteLine(FindPrimeMax(new int[] { 2, 1, 6, 8, 10 }));
 
 
-string FindLongStr(string[] strings)
-{
-    string max = strings[0];
+//string FindLongStr(string[] words)
+//{
+//    string max = words[0];
 
-    for(int i =1; i < strings.Length; i++)
+//    for(int i =1; i < words.Length; i++)
+//    {
+//        if (words[i].Length > max.Length)
+//        {
+//            max = words[i];
+//        }
+//    }
+
+//    return max;
+//}
+
+//Console.WriteLine(FindLongStr(new string[] {"a","bb","cc","ddd","e"}));
+
+
+//int Calculate(int a, int b)
+//{
+//    int c = a + b;
+
+//    return c;
+//}
+
+
+//int[] DoAny(int[] numbers)
+//{
+//    int[] newNumbers = new int[numbers.Length];
+
+//    for(int i=0;i<numbers.Length; i++)
+//    {
+//        newNumbers[i] = numbers[i];
+//    }
+
+//    return newNumbers;
+//}
+
+
+/*
+ * [3,2,5,12,99,17]
+ * 
+ */
+
+
+//int[] FilterArr(int[] numbers)
+//{
+//    int[] filteredNumbers = new int[numbers.Length];
+
+//    for (int i = 0; i < numbers.Length; i++) {
+//        if(numbers[i]%3 == 0 || numbers[i] % 5 == 0)
+//        {
+//            filteredNumbers[i] = numbers[i];
+//        }
+//    }
+
+//    return filteredNumbers;
+//}
+
+//int[] result = FilterArr(new int[] { 3, 9, 12, 11, 25, 27, 32, 38 });
+
+
+//for(int i = 0;i < result.Length; i++)
+//{
+//    Console.WriteLine(result[i]);
+//}
+
+int[] FilterArr(int[] numbers)
+{
+    int count = 0;
+    for (int i = 0; i < numbers.Length; i++)
     {
-        if (strings[i].Length > max.Length)
+        if (numbers[i] % 3 == 0 || numbers[i] % 5 == 0)
         {
-            max = strings[i];
+            count++;
         }
     }
 
-    return max;
+    int[] filteredNumbers = new int[count];
+    int lastIndex = 0;
+
+    for (int i = 0; i < numbers.Length; i++)
+    {
+        if (numbers[i] % 3 == 0 || numbers[i] % 5 == 0)
+        {
+            filteredNumbers[lastIndex] = numbers[i];
+            lastIndex++;
+        }
+    }
+
+    return filteredNumbers;
 }
 
-Console.WriteLine(FindLongStr(new string[] {"a","bb","cc","ddd","e"}));
+
+int[] result = FilterArr(new int[] { 3, 9, 12, 11, 25, 27, 32, 38 });
+
+
+for (int i = 0; i < result.Length; i++)
+{
+    Console.WriteLine(result[i]);
+}

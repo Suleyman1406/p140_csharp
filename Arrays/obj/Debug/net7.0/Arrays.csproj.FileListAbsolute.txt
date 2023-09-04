@@ -1,0 +1,15 @@
+/Users/dadashow/Projects/P140/Arrays/bin/Debug/net7.0/Arrays
+/Users/dadashow/Projects/P140/Arrays/bin/Debug/net7.0/Arrays.deps.json
+/Users/dadashow/Projects/P140/Arrays/bin/Debug/net7.0/Arrays.runtimeconfig.json
+/Users/dadashow/Projects/P140/Arrays/bin/Debug/net7.0/Arrays.dll
+/Users/dadashow/Projects/P140/Arrays/bin/Debug/net7.0/Arrays.pdb
+/Users/dadashow/Projects/P140/Arrays/obj/Debug/net7.0/Arrays.csproj.AssemblyReference.cache
+/Users/dadashow/Projects/P140/Arrays/obj/Debug/net7.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dadashow/Projects/P140/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfoInputs.cache
+/Users/dadashow/Projects/P140/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfo.cs
+/Users/dadashow/Projects/P140/Arrays/obj/Debug/net7.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/dadashow/Projects/P140/Arrays/obj/Debug/net7.0/Arrays.dll
+/Users/dadashow/Projects/P140/Arrays/obj/Debug/net7.0/refint/Arrays.dll
+/Users/dadashow/Projects/P140/Arrays/obj/Debug/net7.0/Arrays.pdb
+/Users/dadashow/Projects/P140/Arrays/obj/Debug/net7.0/Arrays.genruntimeconfig.cache
+/Users/dadashow/Projects/P140/Arrays/obj/Debug/net7.0/ref/Arrays.dll
