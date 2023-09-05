@@ -1,0 +1,15 @@
+/Users/dadashow/Projects/P140/Extras/bin/Debug/net7.0/Extras
+/Users/dadashow/Projects/P140/Extras/bin/Debug/net7.0/Extras.deps.json
+/Users/dadashow/Projects/P140/Extras/bin/Debug/net7.0/Extras.runtimeconfig.json
+/Users/dadashow/Projects/P140/Extras/bin/Debug/net7.0/Extras.dll
+/Users/dadashow/Projects/P140/Extras/bin/Debug/net7.0/Extras.pdb
+/Users/dadashow/Projects/P140/Extras/obj/Debug/net7.0/Extras.csproj.AssemblyReference.cache
+/Users/dadashow/Projects/P140/Extras/obj/Debug/net7.0/Extras.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dadashow/Projects/P140/Extras/obj/Debug/net7.0/Extras.AssemblyInfoInputs.cache
+/Users/dadashow/Projects/P140/Extras/obj/Debug/net7.0/Extras.AssemblyInfo.cs
+/Users/dadashow/Projects/P140/Extras/obj/Debug/net7.0/Extras.csproj.CoreCompileInputs.cache
+/Users/dadashow/Projects/P140/Extras/obj/Debug/net7.0/Extras.dll
+/Users/dadashow/Projects/P140/Extras/obj/Debug/net7.0/refint/Extras.dll
+/Users/dadashow/Projects/P140/Extras/obj/Debug/net7.0/Extras.pdb
+/Users/dadashow/Projects/P140/Extras/obj/Debug/net7.0/Extras.genruntimeconfig.cache
+/Users/dadashow/Projects/P140/Extras/obj/Debug/net7.0/ref/Extras.dll

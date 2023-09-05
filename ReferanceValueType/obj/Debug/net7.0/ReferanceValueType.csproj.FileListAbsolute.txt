@@ -1,0 +1,15 @@
+/Users/dadashow/Projects/P140/ReferanceValueType/bin/Debug/net7.0/ReferanceValueType
+/Users/dadashow/Projects/P140/ReferanceValueType/bin/Debug/net7.0/ReferanceValueType.deps.json
+/Users/dadashow/Projects/P140/ReferanceValueType/bin/Debug/net7.0/ReferanceValueType.runtimeconfig.json
+/Users/dadashow/Projects/P140/ReferanceValueType/bin/Debug/net7.0/ReferanceValueType.dll
+/Users/dadashow/Projects/P140/ReferanceValueType/bin/Debug/net7.0/ReferanceValueType.pdb
+/Users/dadashow/Projects/P140/ReferanceValueType/obj/Debug/net7.0/ReferanceValueType.csproj.AssemblyReference.cache
+/Users/dadashow/Projects/P140/ReferanceValueType/obj/Debug/net7.0/ReferanceValueType.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dadashow/Projects/P140/ReferanceValueType/obj/Debug/net7.0/ReferanceValueType.AssemblyInfoInputs.cache
+/Users/dadashow/Projects/P140/ReferanceValueType/obj/Debug/net7.0/ReferanceValueType.AssemblyInfo.cs
+/Users/dadashow/Projects/P140/ReferanceValueType/obj/Debug/net7.0/ReferanceValueType.csproj.CoreCompileInputs.cache
+/Users/dadashow/Projects/P140/ReferanceValueType/obj/Debug/net7.0/ReferanceValueType.dll
+/Users/dadashow/Projects/P140/ReferanceValueType/obj/Debug/net7.0/refint/ReferanceValueType.dll
+/Users/dadashow/Projects/P140/ReferanceValueType/obj/Debug/net7.0/ReferanceValueType.pdb
+/Users/dadashow/Projects/P140/ReferanceValueType/obj/Debug/net7.0/ReferanceValueType.genruntimeconfig.cache
+/Users/dadashow/Projects/P140/ReferanceValueType/obj/Debug/net7.0/ref/ReferanceValueType.dll
