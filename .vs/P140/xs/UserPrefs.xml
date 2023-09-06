@@ -1,10 +1,11 @@
-﻿<Properties StartupConfiguration="{1879A55C-EE55-44E3-93C5-75AD09A27499}|Default">
+﻿<Properties StartupConfiguration="{6D18D803-D900-4747-8FA9-9724CAE364BF}|Default">
   <MonoDevelop.Ide.ItemProperties.Methods PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.P140 PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Strings PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.TypeCasting PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Arrays PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.OOPIntro PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Extras PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Basics PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
@@ -15,17 +16,15 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="P140" expanded="True">
-            <Node name="Extras" selected="True" />
+          <Node name="P140">
+            <Node name="Extras" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/dadashow/Projects/P140/P140/Program.cs" relfile="P140/Program.cs" line="271" column="1" />
-    </BreakpointStore>
+    <Breakpoint file="/Users/dadashow/Projects/P140/P140/Program.cs" relfile="P140/Program.cs" line="271" column="1" />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.ReferanceValueType PreferredExecutionTarget="MonoDevelop.Default" />

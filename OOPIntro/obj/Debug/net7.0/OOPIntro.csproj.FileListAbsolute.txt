@@ -1,0 +1,15 @@
+/Users/dadashow/Projects/P140/OOPIntro/bin/Debug/net7.0/OOPIntro
+/Users/dadashow/Projects/P140/OOPIntro/bin/Debug/net7.0/OOPIntro.deps.json
+/Users/dadashow/Projects/P140/OOPIntro/bin/Debug/net7.0/OOPIntro.runtimeconfig.json
+/Users/dadashow/Projects/P140/OOPIntro/bin/Debug/net7.0/OOPIntro.dll
+/Users/dadashow/Projects/P140/OOPIntro/bin/Debug/net7.0/OOPIntro.pdb
+/Users/dadashow/Projects/P140/OOPIntro/obj/Debug/net7.0/OOPIntro.csproj.AssemblyReference.cache
+/Users/dadashow/Projects/P140/OOPIntro/obj/Debug/net7.0/OOPIntro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dadashow/Projects/P140/OOPIntro/obj/Debug/net7.0/OOPIntro.AssemblyInfoInputs.cache
+/Users/dadashow/Projects/P140/OOPIntro/obj/Debug/net7.0/OOPIntro.AssemblyInfo.cs
+/Users/dadashow/Projects/P140/OOPIntro/obj/Debug/net7.0/OOPIntro.csproj.CoreCompileInputs.cache
+/Users/dadashow/Projects/P140/OOPIntro/obj/Debug/net7.0/OOPIntro.dll
+/Users/dadashow/Projects/P140/OOPIntro/obj/Debug/net7.0/refint/OOPIntro.dll
+/Users/dadashow/Projects/P140/OOPIntro/obj/Debug/net7.0/OOPIntro.pdb
+/Users/dadashow/Projects/P140/OOPIntro/obj/Debug/net7.0/OOPIntro.genruntimeconfig.cache
+/Users/dadashow/Projects/P140/OOPIntro/obj/Debug/net7.0/ref/OOPIntro.dll
