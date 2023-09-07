@@ -74,3 +74,28 @@
 //{
 
 //}
+
+
+
+//if (true)
+//{
+//    int a = 19;
+//}
+
+//Console.WriteLine(a);
+
+
+
+int a = 12;
+
+void Test()
+{
+    int b = 12;
+    Console.WriteLine(a + b);
+}
+
+//Console.WriteLine(b);
+
+Test();
+
+

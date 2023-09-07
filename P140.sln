@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extras", "Extras\Extras.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPIntro", "OOPIntro\OOPIntro.csproj", "{6D18D803-D900-4747-8FA9-9724CAE364BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPStatic", "OOPStatic\OOPStatic.csproj", "{9044BA40-0EC1-4D04-994D-34EB0A609222}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{A789903F-0571-4CA6-95B4-9D9EB3BED253}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{6D18D803-D900-4747-8FA9-9724CAE364BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D18D803-D900-4747-8FA9-9724CAE364BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D18D803-D900-4747-8FA9-9724CAE364BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9044BA40-0EC1-4D04-994D-34EB0A609222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9044BA40-0EC1-4D04-994D-34EB0A609222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9044BA40-0EC1-4D04-994D-34EB0A609222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9044BA40-0EC1-4D04-994D-34EB0A609222}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A789903F-0571-4CA6-95B4-9D9EB3BED253}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A789903F-0571-4CA6-95B4-9D9EB3BED253}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A789903F-0571-4CA6-95B4-9D9EB3BED253}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A789903F-0571-4CA6-95B4-9D9EB3BED253}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

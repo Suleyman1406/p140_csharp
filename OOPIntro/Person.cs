@@ -4,27 +4,14 @@ public class Person
 	private double weight =12;
     private string name = "asd";
     private byte age = 12;
-
-	public string Job { get; private set; }
-
-	public Person(double weight, string name, byte age, string job)
-	{
-		this.weight = weight;
-		this.name = name;
-		this.age = age;
-		this.Job = job;
-	}
 	
-	public Person(double weight, string name, byte age)
-	{
-        this.weight = weight;
-        this.name = name;
-        this.age = age;
-    }
+    public string Job { get; private set; }
 
-	public Person()
+	public Person(string name, string job)
 	{
-
+		this.name = name;
+		Job = job;
+		Console.WriteLine(Job);
 	}
 
 	public double GetWeight()

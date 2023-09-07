@@ -62,8 +62,8 @@
 //Console.WriteLine("Hello everyOne".Substring(2,4));
 //Console.WriteLine("Hello ".Remove();
 
-Person person = new Person(44.5,"suleyman",1,"student");
-Person person2 = new Person();
+//Person person = new Person(44.5,"suleyman",1,"student");
+//Person person2 = new Person();
 
 //Console.WriteLine(person.GetWeight());
 //person.SetWeight(66);
@@ -73,3 +73,8 @@ Person person2 = new Person();
 //person.Job = "teacher";
 
 //Console.WriteLine(person.Job);
+
+//Person person = new Person("asd","hello");
+
+
+Car car = new Car();

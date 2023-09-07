@@ -1,0 +1,15 @@
+/Users/dadashow/Projects/P140/OOPStatic/bin/Debug/net7.0/OOPStatic
+/Users/dadashow/Projects/P140/OOPStatic/bin/Debug/net7.0/OOPStatic.deps.json
+/Users/dadashow/Projects/P140/OOPStatic/bin/Debug/net7.0/OOPStatic.runtimeconfig.json
+/Users/dadashow/Projects/P140/OOPStatic/bin/Debug/net7.0/OOPStatic.dll
+/Users/dadashow/Projects/P140/OOPStatic/bin/Debug/net7.0/OOPStatic.pdb
+/Users/dadashow/Projects/P140/OOPStatic/obj/Debug/net7.0/OOPStatic.csproj.AssemblyReference.cache
+/Users/dadashow/Projects/P140/OOPStatic/obj/Debug/net7.0/OOPStatic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dadashow/Projects/P140/OOPStatic/obj/Debug/net7.0/OOPStatic.AssemblyInfoInputs.cache
+/Users/dadashow/Projects/P140/OOPStatic/obj/Debug/net7.0/OOPStatic.AssemblyInfo.cs
+/Users/dadashow/Projects/P140/OOPStatic/obj/Debug/net7.0/OOPStatic.csproj.CoreCompileInputs.cache
+/Users/dadashow/Projects/P140/OOPStatic/obj/Debug/net7.0/OOPStatic.dll
+/Users/dadashow/Projects/P140/OOPStatic/obj/Debug/net7.0/refint/OOPStatic.dll
+/Users/dadashow/Projects/P140/OOPStatic/obj/Debug/net7.0/OOPStatic.pdb
+/Users/dadashow/Projects/P140/OOPStatic/obj/Debug/net7.0/OOPStatic.genruntimeconfig.cache
+/Users/dadashow/Projects/P140/OOPStatic/obj/Debug/net7.0/ref/OOPStatic.dll
