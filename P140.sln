@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPStatic", "OOPStatic\OOPS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{A789903F-0571-4CA6-95B4-9D9EB3BED253}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceHomework", "InheritanceHomework\InheritanceHomework.csproj", "{48AEF452-3B0C-41EB-96C3-38059048292C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{A789903F-0571-4CA6-95B4-9D9EB3BED253}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A789903F-0571-4CA6-95B4-9D9EB3BED253}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A789903F-0571-4CA6-95B4-9D9EB3BED253}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48AEF452-3B0C-41EB-96C3-38059048292C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48AEF452-3B0C-41EB-96C3-38059048292C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48AEF452-3B0C-41EB-96C3-38059048292C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48AEF452-3B0C-41EB-96C3-38059048292C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

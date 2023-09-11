@@ -86,16 +86,18 @@
 
 
 
-int a = 12;
+//int a = 12;
 
-void Test()
-{
-    int b = 12;
-    Console.WriteLine(a + b);
-}
+//void Test()
+//{
+//    int b = 12;
+//    Console.WriteLine(a + b);
+//}
 
-//Console.WriteLine(b);
+////Console.WriteLine(b);
 
-Test();
+//Test();
+
+
 
 

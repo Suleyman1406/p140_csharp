@@ -1,0 +1,15 @@
+/Users/dadashow/Projects/P140/InheritanceHomework/bin/Debug/net7.0/InheritanceHomework
+/Users/dadashow/Projects/P140/InheritanceHomework/bin/Debug/net7.0/InheritanceHomework.deps.json
+/Users/dadashow/Projects/P140/InheritanceHomework/bin/Debug/net7.0/InheritanceHomework.runtimeconfig.json
+/Users/dadashow/Projects/P140/InheritanceHomework/bin/Debug/net7.0/InheritanceHomework.dll
+/Users/dadashow/Projects/P140/InheritanceHomework/bin/Debug/net7.0/InheritanceHomework.pdb
+/Users/dadashow/Projects/P140/InheritanceHomework/obj/Debug/net7.0/InheritanceHomework.csproj.AssemblyReference.cache
+/Users/dadashow/Projects/P140/InheritanceHomework/obj/Debug/net7.0/InheritanceHomework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dadashow/Projects/P140/InheritanceHomework/obj/Debug/net7.0/InheritanceHomework.AssemblyInfoInputs.cache
+/Users/dadashow/Projects/P140/InheritanceHomework/obj/Debug/net7.0/InheritanceHomework.AssemblyInfo.cs
+/Users/dadashow/Projects/P140/InheritanceHomework/obj/Debug/net7.0/InheritanceHomework.csproj.CoreCompileInputs.cache
+/Users/dadashow/Projects/P140/InheritanceHomework/obj/Debug/net7.0/InheritanceHomework.dll
+/Users/dadashow/Projects/P140/InheritanceHomework/obj/Debug/net7.0/refint/InheritanceHomework.dll
+/Users/dadashow/Projects/P140/InheritanceHomework/obj/Debug/net7.0/InheritanceHomework.pdb
+/Users/dadashow/Projects/P140/InheritanceHomework/obj/Debug/net7.0/InheritanceHomework.genruntimeconfig.cache
+/Users/dadashow/Projects/P140/InheritanceHomework/obj/Debug/net7.0/ref/InheritanceHomework.dll
