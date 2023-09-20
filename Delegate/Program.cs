@@ -132,25 +132,90 @@
 int[] numbers = new[] { 3, 7, 9, 21, 17, 2, 18, 9 };
 
 
-int c =  Count(numbers, (v) => v % 2 == 0);
-Console.WriteLine(c);
+//int c =  Count(numbers, (v) => v % 2 == 0);
+//Console.WriteLine(c);
 
-int d = Count(numbers, (t) => t > 9);
-Console.WriteLine(d);
+//int d = Count(numbers, (t) => t > 0);
+//Console.WriteLine(d);
 
-int Count(int[] nums, Check func)
+//int Count(int[] nums, Check func)
+//{
+//    int count = 0;
+//    for (int i = 0; i < nums.Length; i++)
+//    {
+//        if (func(nums[i]))
+//        {
+//            count++;
+//        }
+//    }
+//    return count;
+//}
+
+
+
+//delegate bool Check(int val);
+
+
+
+//Help help = (t, r) => t + r;
+
+//Console.WriteLine(help("asd",11));
+
+
+//delegate string Help(string a, int b);
+
+
+
+//int a = c+d=>a;
+
+
+//Test test = (a, c, d) => a < c || c > d;
+
+
+//Console.WriteLine(test(4, 5, 9));
+
+//delegate bool Test(int a, int c, int d);
+
+
+
+//Test test = (y, t, b) => {
+
+
+//    return y + t + b + "alo";
+//};
+
+//Console.WriteLine(test(1, 2, 3));
+
+//delegate string Test(int a, int b, int c);
+
+
+//Test t = (t, y) =>
+//{
+//    t *= 8;
+//    y -= 2;
+//    Console.WriteLine(t + y);
+//};
+
+//t(5, 8);
+
+//delegate void Test(int a, int b);
+
+
+
+//Test e = () =>
+//{
+//    Console.WriteLine("Hello ");
+//};
+
+//e();
+
+//delegate void Test();
+
+
+Test test = a =>
 {
-    int count = 0;
-    for (int i = 0; i < nums.Length; i++)
-    {
-        if (func(nums[i]))
-        {
-            count++;
-        }
-    }
-    return count;
-}
+    Console.WriteLine(a + 1);
+};
 
-
-
-delegate bool Check(int val);
+test(12);
+delegate void Test(int a);
