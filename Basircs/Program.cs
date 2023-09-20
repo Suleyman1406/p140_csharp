@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 //Console.WriteLine("Hello, World!");
 
-
+//Console.WriteLine("asd");
 //string name = "asd";
 
 //var name = "suleyman";
@@ -98,6 +98,20 @@
 
 //Test();
 
+
+int number = 10;
+SetNumber(number);
+Console.WriteLine(number) ;
+
+
+void SetNumber(int n) //n =10
+{
+    n *= 10; // 100
+    Console.WriteLine(n);
+}
+
+// 100
+// 10
 
 
 

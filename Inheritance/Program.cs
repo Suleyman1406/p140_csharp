@@ -26,21 +26,22 @@
 
 //Person teacher = new Teacher("Cahandar", "asd", 0, 1);
 
-Teacher teacher1 = new Teacher("t1", "asd", 0, 0);
-Teacher teacher2 = new Teacher("t2", "asd2", 0, 0);
-Student student1 = new Student("st1", "st1", 0, 99);
-Student student2 = new Student("st2", "st1", 0, 99);
+//Teacher teacher1 = new Teacher("t1", "asd", 0, 0);
+//Teacher teacher2 = new Teacher("t2", "asd2", 0, 0);
+//Student student1 = new Student("st1", "st1", 0, 99);
+//Student student2 = new Student("st2", "st1", 0, 99);
 
-Person[] people = {teacher1, teacher2, student1, student2 };
+//Person[] people = {teacher1, teacher2, student1, student2 };
 
 
-foreach(Person person in people)
-{
-    person.PrintInfo(); 
-}
+//foreach(Person person in people)
+//{
+//    person.PrintInfo(); 
+//}
 
 //teacher.PrintInfo();
 //student.PrintInfo();
+
 
 
 

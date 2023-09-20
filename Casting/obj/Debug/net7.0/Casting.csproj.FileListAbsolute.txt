@@ -1,0 +1,15 @@
+/Users/dadashow/Projects/P140/Casting/bin/Debug/net7.0/Casting
+/Users/dadashow/Projects/P140/Casting/bin/Debug/net7.0/Casting.deps.json
+/Users/dadashow/Projects/P140/Casting/bin/Debug/net7.0/Casting.runtimeconfig.json
+/Users/dadashow/Projects/P140/Casting/bin/Debug/net7.0/Casting.dll
+/Users/dadashow/Projects/P140/Casting/bin/Debug/net7.0/Casting.pdb
+/Users/dadashow/Projects/P140/Casting/obj/Debug/net7.0/Casting.csproj.AssemblyReference.cache
+/Users/dadashow/Projects/P140/Casting/obj/Debug/net7.0/Casting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dadashow/Projects/P140/Casting/obj/Debug/net7.0/Casting.AssemblyInfoInputs.cache
+/Users/dadashow/Projects/P140/Casting/obj/Debug/net7.0/Casting.AssemblyInfo.cs
+/Users/dadashow/Projects/P140/Casting/obj/Debug/net7.0/Casting.csproj.CoreCompileInputs.cache
+/Users/dadashow/Projects/P140/Casting/obj/Debug/net7.0/Casting.dll
+/Users/dadashow/Projects/P140/Casting/obj/Debug/net7.0/refint/Casting.dll
+/Users/dadashow/Projects/P140/Casting/obj/Debug/net7.0/Casting.pdb
+/Users/dadashow/Projects/P140/Casting/obj/Debug/net7.0/Casting.genruntimeconfig.cache
+/Users/dadashow/Projects/P140/Casting/obj/Debug/net7.0/ref/Casting.dll

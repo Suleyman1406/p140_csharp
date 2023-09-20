@@ -42,3 +42,44 @@
 
 //Console.WriteLine(  "hello {0} {1}", name, surname  );
 
+
+//Console.WriteLine(Math.a);
+
+
+//string a = null;
+
+//Console.WriteLine(a ?? "hello");
+
+
+//int a = 19;
+
+//if (a > 18)
+//{
+//    Console.WriteLine("boyukdur");
+//}
+//else if (a < 18)
+//{
+//    Console.WriteLine("kicikdir");
+//}
+//else
+//{
+//    Console.WriteLine("beraberdir");
+//}
+
+
+//string res =  a > 18 ? "boyukdur" : a < 18 ? "kicikdir" : "beraberdir";
+//Console.WriteLine(res);
+
+
+//var anonymObj = new { name = "suleyman", surname = "dadashov", age=11 };
+
+//Console.WriteLine(anonymObj.name);
+
+
+//Person person = new Person();
+
+
+
+int a = 100;
+
+byte b = (byte)a;

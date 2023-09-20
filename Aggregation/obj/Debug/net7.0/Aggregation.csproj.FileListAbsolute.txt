@@ -1,0 +1,15 @@
+/Users/dadashow/Projects/P140/Aggregation/bin/Debug/net7.0/Aggregation
+/Users/dadashow/Projects/P140/Aggregation/bin/Debug/net7.0/Aggregation.deps.json
+/Users/dadashow/Projects/P140/Aggregation/bin/Debug/net7.0/Aggregation.runtimeconfig.json
+/Users/dadashow/Projects/P140/Aggregation/bin/Debug/net7.0/Aggregation.dll
+/Users/dadashow/Projects/P140/Aggregation/bin/Debug/net7.0/Aggregation.pdb
+/Users/dadashow/Projects/P140/Aggregation/obj/Debug/net7.0/Aggregation.csproj.AssemblyReference.cache
+/Users/dadashow/Projects/P140/Aggregation/obj/Debug/net7.0/Aggregation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dadashow/Projects/P140/Aggregation/obj/Debug/net7.0/Aggregation.AssemblyInfoInputs.cache
+/Users/dadashow/Projects/P140/Aggregation/obj/Debug/net7.0/Aggregation.AssemblyInfo.cs
+/Users/dadashow/Projects/P140/Aggregation/obj/Debug/net7.0/Aggregation.csproj.CoreCompileInputs.cache
+/Users/dadashow/Projects/P140/Aggregation/obj/Debug/net7.0/Aggregation.dll
+/Users/dadashow/Projects/P140/Aggregation/obj/Debug/net7.0/refint/Aggregation.dll
+/Users/dadashow/Projects/P140/Aggregation/obj/Debug/net7.0/Aggregation.pdb
+/Users/dadashow/Projects/P140/Aggregation/obj/Debug/net7.0/Aggregation.genruntimeconfig.cache
+/Users/dadashow/Projects/P140/Aggregation/obj/Debug/net7.0/ref/Aggregation.dll

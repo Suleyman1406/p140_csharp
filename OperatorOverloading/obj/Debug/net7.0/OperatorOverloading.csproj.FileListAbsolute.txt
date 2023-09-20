@@ -1,0 +1,15 @@
+/Users/dadashow/Projects/P140/OperatorOverloading/bin/Debug/net7.0/OperatorOverloading
+/Users/dadashow/Projects/P140/OperatorOverloading/bin/Debug/net7.0/OperatorOverloading.deps.json
+/Users/dadashow/Projects/P140/OperatorOverloading/bin/Debug/net7.0/OperatorOverloading.runtimeconfig.json
+/Users/dadashow/Projects/P140/OperatorOverloading/bin/Debug/net7.0/OperatorOverloading.dll
+/Users/dadashow/Projects/P140/OperatorOverloading/bin/Debug/net7.0/OperatorOverloading.pdb
+/Users/dadashow/Projects/P140/OperatorOverloading/obj/Debug/net7.0/OperatorOverloading.csproj.AssemblyReference.cache
+/Users/dadashow/Projects/P140/OperatorOverloading/obj/Debug/net7.0/OperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dadashow/Projects/P140/OperatorOverloading/obj/Debug/net7.0/OperatorOverloading.AssemblyInfoInputs.cache
+/Users/dadashow/Projects/P140/OperatorOverloading/obj/Debug/net7.0/OperatorOverloading.AssemblyInfo.cs
+/Users/dadashow/Projects/P140/OperatorOverloading/obj/Debug/net7.0/OperatorOverloading.csproj.CoreCompileInputs.cache
+/Users/dadashow/Projects/P140/OperatorOverloading/obj/Debug/net7.0/OperatorOverloading.dll
+/Users/dadashow/Projects/P140/OperatorOverloading/obj/Debug/net7.0/refint/OperatorOverloading.dll
+/Users/dadashow/Projects/P140/OperatorOverloading/obj/Debug/net7.0/OperatorOverloading.pdb
+/Users/dadashow/Projects/P140/OperatorOverloading/obj/Debug/net7.0/OperatorOverloading.genruntimeconfig.cache
+/Users/dadashow/Projects/P140/OperatorOverloading/obj/Debug/net7.0/ref/OperatorOverloading.dll

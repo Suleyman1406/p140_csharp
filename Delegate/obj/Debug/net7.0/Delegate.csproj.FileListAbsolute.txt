@@ -1,0 +1,15 @@
+/Users/dadashow/Projects/P140/Delegate/bin/Debug/net7.0/Delegate
+/Users/dadashow/Projects/P140/Delegate/bin/Debug/net7.0/Delegate.deps.json
+/Users/dadashow/Projects/P140/Delegate/bin/Debug/net7.0/Delegate.runtimeconfig.json
+/Users/dadashow/Projects/P140/Delegate/bin/Debug/net7.0/Delegate.dll
+/Users/dadashow/Projects/P140/Delegate/bin/Debug/net7.0/Delegate.pdb
+/Users/dadashow/Projects/P140/Delegate/obj/Debug/net7.0/Delegate.csproj.AssemblyReference.cache
+/Users/dadashow/Projects/P140/Delegate/obj/Debug/net7.0/Delegate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dadashow/Projects/P140/Delegate/obj/Debug/net7.0/Delegate.AssemblyInfoInputs.cache
+/Users/dadashow/Projects/P140/Delegate/obj/Debug/net7.0/Delegate.AssemblyInfo.cs
+/Users/dadashow/Projects/P140/Delegate/obj/Debug/net7.0/Delegate.csproj.CoreCompileInputs.cache
+/Users/dadashow/Projects/P140/Delegate/obj/Debug/net7.0/Delegate.dll
+/Users/dadashow/Projects/P140/Delegate/obj/Debug/net7.0/refint/Delegate.dll
+/Users/dadashow/Projects/P140/Delegate/obj/Debug/net7.0/Delegate.pdb
+/Users/dadashow/Projects/P140/Delegate/obj/Debug/net7.0/Delegate.genruntimeconfig.cache
+/Users/dadashow/Projects/P140/Delegate/obj/Debug/net7.0/ref/Delegate.dll

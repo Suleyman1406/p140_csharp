@@ -1,0 +1,15 @@
+/Users/dadashow/Projects/P140/ExceptionHandling/bin/Debug/net7.0/ExceptionHandling
+/Users/dadashow/Projects/P140/ExceptionHandling/bin/Debug/net7.0/ExceptionHandling.deps.json
+/Users/dadashow/Projects/P140/ExceptionHandling/bin/Debug/net7.0/ExceptionHandling.runtimeconfig.json
+/Users/dadashow/Projects/P140/ExceptionHandling/bin/Debug/net7.0/ExceptionHandling.dll
+/Users/dadashow/Projects/P140/ExceptionHandling/bin/Debug/net7.0/ExceptionHandling.pdb
+/Users/dadashow/Projects/P140/ExceptionHandling/obj/Debug/net7.0/ExceptionHandling.csproj.AssemblyReference.cache
+/Users/dadashow/Projects/P140/ExceptionHandling/obj/Debug/net7.0/ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dadashow/Projects/P140/ExceptionHandling/obj/Debug/net7.0/ExceptionHandling.AssemblyInfoInputs.cache
+/Users/dadashow/Projects/P140/ExceptionHandling/obj/Debug/net7.0/ExceptionHandling.AssemblyInfo.cs
+/Users/dadashow/Projects/P140/ExceptionHandling/obj/Debug/net7.0/ExceptionHandling.csproj.CoreCompileInputs.cache
+/Users/dadashow/Projects/P140/ExceptionHandling/obj/Debug/net7.0/ExceptionHandling.dll
+/Users/dadashow/Projects/P140/ExceptionHandling/obj/Debug/net7.0/refint/ExceptionHandling.dll
+/Users/dadashow/Projects/P140/ExceptionHandling/obj/Debug/net7.0/ExceptionHandling.pdb
+/Users/dadashow/Projects/P140/ExceptionHandling/obj/Debug/net7.0/ExceptionHandling.genruntimeconfig.cache
+/Users/dadashow/Projects/P140/ExceptionHandling/obj/Debug/net7.0/ref/ExceptionHandling.dll

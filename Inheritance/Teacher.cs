@@ -3,7 +3,7 @@
     public double Experience { get; set; }
 
 
-    public Teacher(string name, string surname, int age, double experience ): base(name, surname, age)
+    public IstenilenSoz(string name, string surname, int age, double experience ): base(name, surname, age)
     {
         Experience = experience;
     }

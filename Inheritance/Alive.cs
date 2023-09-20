@@ -12,6 +12,11 @@ public class Alive
 	{
 		Console.WriteLine(Name + " made noise");
 	}
+
+	public virtual void Display()
+	{
+		Console.WriteLine("Alive");
+	} 
 }
 
 

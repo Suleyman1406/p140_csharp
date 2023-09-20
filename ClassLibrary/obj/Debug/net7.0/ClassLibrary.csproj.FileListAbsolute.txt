@@ -1,0 +1,12 @@
+/Users/dadashow/Projects/P140/ClassLibrary/bin/Debug/net7.0/ClassLibrary.deps.json
+/Users/dadashow/Projects/P140/ClassLibrary/bin/Debug/net7.0/ClassLibrary.dll
+/Users/dadashow/Projects/P140/ClassLibrary/bin/Debug/net7.0/ClassLibrary.pdb
+/Users/dadashow/Projects/P140/ClassLibrary/obj/Debug/net7.0/ClassLibrary.csproj.AssemblyReference.cache
+/Users/dadashow/Projects/P140/ClassLibrary/obj/Debug/net7.0/ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dadashow/Projects/P140/ClassLibrary/obj/Debug/net7.0/ClassLibrary.AssemblyInfoInputs.cache
+/Users/dadashow/Projects/P140/ClassLibrary/obj/Debug/net7.0/ClassLibrary.AssemblyInfo.cs
+/Users/dadashow/Projects/P140/ClassLibrary/obj/Debug/net7.0/ClassLibrary.csproj.CoreCompileInputs.cache
+/Users/dadashow/Projects/P140/ClassLibrary/obj/Debug/net7.0/ClassLibrary.dll
+/Users/dadashow/Projects/P140/ClassLibrary/obj/Debug/net7.0/refint/ClassLibrary.dll
+/Users/dadashow/Projects/P140/ClassLibrary/obj/Debug/net7.0/ClassLibrary.pdb
+/Users/dadashow/Projects/P140/ClassLibrary/obj/Debug/net7.0/ref/ClassLibrary.dll

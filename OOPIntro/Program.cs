@@ -77,4 +77,22 @@
 //Person person = new Person("asd","hello");
 
 
-Car car = new Car();
+//Car car = new Car();
+
+
+//Vehicle vehicle = new Vehicle("a","b",2);
+
+//Motor vehicle = new Motor();
+
+int number = 10;
+SetNumber(ref number);
+number += 10;
+Console.WriteLine(number); // 110
+
+
+void SetNumber(ref int n) // n = #number = 100
+{
+    n *= 10;
+    Console.WriteLine(n); // 100
+}
+

@@ -40,11 +40,11 @@
 //Console.WriteLine(text);
 
 
-//string names = "Suleyman-Rustem- Elnur- Abdulla";
+//string names = "a b c d e";
 
 //string[] result = names.Split("");
 
-//for (int i = 0; i < result.Length; i++)
+//for (int i = result.Length - 1; i >= 0; i--)
 //{
 //    Console.WriteLine(result[i]);
 //}

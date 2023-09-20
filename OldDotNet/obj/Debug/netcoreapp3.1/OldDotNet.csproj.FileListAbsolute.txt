@@ -1,0 +1,14 @@
+/Users/dadashow/Projects/P140/OldDotNet/bin/Debug/netcoreapp3.1/OldDotNet
+/Users/dadashow/Projects/P140/OldDotNet/bin/Debug/netcoreapp3.1/OldDotNet.deps.json
+/Users/dadashow/Projects/P140/OldDotNet/bin/Debug/netcoreapp3.1/OldDotNet.runtimeconfig.json
+/Users/dadashow/Projects/P140/OldDotNet/bin/Debug/netcoreapp3.1/OldDotNet.runtimeconfig.dev.json
+/Users/dadashow/Projects/P140/OldDotNet/bin/Debug/netcoreapp3.1/OldDotNet.dll
+/Users/dadashow/Projects/P140/OldDotNet/bin/Debug/netcoreapp3.1/OldDotNet.pdb
+/Users/dadashow/Projects/P140/OldDotNet/obj/Debug/netcoreapp3.1/OldDotNet.csproj.AssemblyReference.cache
+/Users/dadashow/Projects/P140/OldDotNet/obj/Debug/netcoreapp3.1/OldDotNet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dadashow/Projects/P140/OldDotNet/obj/Debug/netcoreapp3.1/OldDotNet.AssemblyInfoInputs.cache
+/Users/dadashow/Projects/P140/OldDotNet/obj/Debug/netcoreapp3.1/OldDotNet.AssemblyInfo.cs
+/Users/dadashow/Projects/P140/OldDotNet/obj/Debug/netcoreapp3.1/OldDotNet.csproj.CoreCompileInputs.cache
+/Users/dadashow/Projects/P140/OldDotNet/obj/Debug/netcoreapp3.1/OldDotNet.dll
+/Users/dadashow/Projects/P140/OldDotNet/obj/Debug/netcoreapp3.1/OldDotNet.pdb
+/Users/dadashow/Projects/P140/OldDotNet/obj/Debug/netcoreapp3.1/OldDotNet.genruntimeconfig.cache

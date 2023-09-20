@@ -275,12 +275,18 @@ asd
 
 // 2n + 1 => O(n)
 
-for(int i = 0; i < 1000; i++)  // n
-{
-    for(int j = 0; j<1000; j++)  // n^2
-    {
-        Console.WriteLine(j); // n^2
-    }
-}
+//for(int i = 0; i < 1000; i++)  // n
+//{
+//    for(int j = 0; j<1000; j++)  // n^2
+//    {
+//        Console.WriteLine(j); // n^2
+//    }
+//}
 
 // 2n^2 + n => O(n^2)
+
+using P140;
+
+ITest test = new Test();
+
+test.Hello();

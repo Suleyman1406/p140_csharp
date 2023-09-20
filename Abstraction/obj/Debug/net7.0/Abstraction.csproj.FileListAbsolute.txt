@@ -1,0 +1,15 @@
+/Users/dadashow/Projects/P140/Abstraction/bin/Debug/net7.0/Abstraction
+/Users/dadashow/Projects/P140/Abstraction/bin/Debug/net7.0/Abstraction.deps.json
+/Users/dadashow/Projects/P140/Abstraction/bin/Debug/net7.0/Abstraction.runtimeconfig.json
+/Users/dadashow/Projects/P140/Abstraction/bin/Debug/net7.0/Abstraction.dll
+/Users/dadashow/Projects/P140/Abstraction/bin/Debug/net7.0/Abstraction.pdb
+/Users/dadashow/Projects/P140/Abstraction/obj/Debug/net7.0/Abstraction.csproj.AssemblyReference.cache
+/Users/dadashow/Projects/P140/Abstraction/obj/Debug/net7.0/Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dadashow/Projects/P140/Abstraction/obj/Debug/net7.0/Abstraction.AssemblyInfoInputs.cache
+/Users/dadashow/Projects/P140/Abstraction/obj/Debug/net7.0/Abstraction.AssemblyInfo.cs
+/Users/dadashow/Projects/P140/Abstraction/obj/Debug/net7.0/Abstraction.csproj.CoreCompileInputs.cache
+/Users/dadashow/Projects/P140/Abstraction/obj/Debug/net7.0/Abstraction.dll
+/Users/dadashow/Projects/P140/Abstraction/obj/Debug/net7.0/refint/Abstraction.dll
+/Users/dadashow/Projects/P140/Abstraction/obj/Debug/net7.0/Abstraction.pdb
+/Users/dadashow/Projects/P140/Abstraction/obj/Debug/net7.0/Abstraction.genruntimeconfig.cache
+/Users/dadashow/Projects/P140/Abstraction/obj/Debug/net7.0/ref/Abstraction.dll

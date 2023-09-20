@@ -1,0 +1,15 @@
+/Users/dadashow/Projects/P140/Partial/bin/Debug/net7.0/Partial
+/Users/dadashow/Projects/P140/Partial/bin/Debug/net7.0/Partial.deps.json
+/Users/dadashow/Projects/P140/Partial/bin/Debug/net7.0/Partial.runtimeconfig.json
+/Users/dadashow/Projects/P140/Partial/bin/Debug/net7.0/Partial.dll
+/Users/dadashow/Projects/P140/Partial/bin/Debug/net7.0/Partial.pdb
+/Users/dadashow/Projects/P140/Partial/obj/Debug/net7.0/Partial.csproj.AssemblyReference.cache
+/Users/dadashow/Projects/P140/Partial/obj/Debug/net7.0/Partial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dadashow/Projects/P140/Partial/obj/Debug/net7.0/Partial.AssemblyInfoInputs.cache
+/Users/dadashow/Projects/P140/Partial/obj/Debug/net7.0/Partial.AssemblyInfo.cs
+/Users/dadashow/Projects/P140/Partial/obj/Debug/net7.0/Partial.csproj.CoreCompileInputs.cache
+/Users/dadashow/Projects/P140/Partial/obj/Debug/net7.0/Partial.dll
+/Users/dadashow/Projects/P140/Partial/obj/Debug/net7.0/refint/Partial.dll
+/Users/dadashow/Projects/P140/Partial/obj/Debug/net7.0/Partial.pdb
+/Users/dadashow/Projects/P140/Partial/obj/Debug/net7.0/Partial.genruntimeconfig.cache
+/Users/dadashow/Projects/P140/Partial/obj/Debug/net7.0/ref/Partial.dll

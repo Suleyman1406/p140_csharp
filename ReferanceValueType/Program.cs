@@ -1,4 +1,4 @@
-﻿using System.Text;
+﻿//using System.Text;
 //int a = 12;
 //int b = a;
 //a = 15;
@@ -163,3 +163,16 @@
 //Console.WriteLine(helloBuilder.ToString());
 
 
+//int a = 5;
+//int x = 20; // 15
+//int y = 10;
+//                                            //            20      10  
+//void Calculate(int x, ref int a, ref int b) // t = 5, r = #x, d = #y
+//{
+//    a = x + b;
+//   //#x = 5 + 10 = 15
+//}
+
+//Calculate(a, ref x, ref y);
+
+//Console.WriteLine(x+y);

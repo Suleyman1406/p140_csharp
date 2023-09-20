@@ -33,13 +33,47 @@
 
 //Console.WriteLine(b);
 
+//unchecked
+//{
+
+//    int y = 266;
+//    byte x = (byte)y;
+//    Console.WriteLine(x);
+//}
+
+//Person student = new Student();
+//Person teacher = new Teacher();
+
+
+//if(person is GraduateStudent)
+//{
+//    GraduateStudent student1 = (GraduateStudent)person;
+//    Console.WriteLine(student1.Grade);
+//}
+//else
+//{
+//    Console.WriteLine("Student deyil");
+//}
+
+//Person person = new GraduateStudent();
+
+//GraduateStudent graduate = person as GraduateStudent;
+
+//Console.WriteLine(graduate is null ? "yoxdur" : graduate.Private);
+
+//byte a = 12;
+//int b = a;
 
 
 
-unchecked
-{
+//GraduateStudent graduate = new GraduateStudent("Windows", 90, "Huseynova");
 
-    int y = 266;
-    byte x = (byte)y;
-    Console.WriteLine(x);
-}
+//Teacher teacher =(Teacher) graduate;
+
+//Console.WriteLine(teacher.Name);
+
+//GraduateStudent graduate1 = new GraduateStudent("Machintosh", 80, "Vusale");
+
+//Teacher teacher1 =(Teacher) graduate1;
+
+//Console.WriteLine(teacher1.Name);

@@ -1,0 +1,15 @@
+/Users/dadashow/Projects/P140/Generics/bin/Debug/net7.0/Generics
+/Users/dadashow/Projects/P140/Generics/bin/Debug/net7.0/Generics.deps.json
+/Users/dadashow/Projects/P140/Generics/bin/Debug/net7.0/Generics.runtimeconfig.json
+/Users/dadashow/Projects/P140/Generics/bin/Debug/net7.0/Generics.dll
+/Users/dadashow/Projects/P140/Generics/bin/Debug/net7.0/Generics.pdb
+/Users/dadashow/Projects/P140/Generics/obj/Debug/net7.0/Generics.csproj.AssemblyReference.cache
+/Users/dadashow/Projects/P140/Generics/obj/Debug/net7.0/Generics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dadashow/Projects/P140/Generics/obj/Debug/net7.0/Generics.AssemblyInfoInputs.cache
+/Users/dadashow/Projects/P140/Generics/obj/Debug/net7.0/Generics.AssemblyInfo.cs
+/Users/dadashow/Projects/P140/Generics/obj/Debug/net7.0/Generics.csproj.CoreCompileInputs.cache
+/Users/dadashow/Projects/P140/Generics/obj/Debug/net7.0/Generics.dll
+/Users/dadashow/Projects/P140/Generics/obj/Debug/net7.0/refint/Generics.dll
+/Users/dadashow/Projects/P140/Generics/obj/Debug/net7.0/Generics.pdb
+/Users/dadashow/Projects/P140/Generics/obj/Debug/net7.0/Generics.genruntimeconfig.cache
+/Users/dadashow/Projects/P140/Generics/obj/Debug/net7.0/ref/Generics.dll
